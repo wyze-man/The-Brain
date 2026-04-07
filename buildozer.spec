@@ -1,1 +1,0 @@
-requirements = python3,kivy==2.3.0,kivymd,pillow,requests,urllib3
