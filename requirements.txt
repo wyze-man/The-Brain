@@ -1,0 +1,3 @@
+kivy==2.3.0
+pillow
+cython==0.29.37
